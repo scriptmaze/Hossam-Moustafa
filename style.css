@@ -349,6 +349,7 @@ nav .fa-solid{
     }
     .about-col-1 img{
         max-width: 100%;
+        object-fit: contain;
     }
     nav .fa-solid{
         display: block;
